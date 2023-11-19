@@ -11,6 +11,7 @@ Mountain Climber throughout the trekking. Successfully studied the components an
 to build a prototype also the device enables and guides to accurately monitor the physiological
 status of a mountain climber and to make punctual commands, thereby providing guides with
 an immediate and effective route for assistance.
+
   This project allows to track vitals of climbers in real time as well as monitor their
 location over IOT. This provides the live Heartbeat monitoring, GPS Location Tracking,
 Altimeter, Fall detection and Barometer sensor to sense the condition of a mountaineer,
