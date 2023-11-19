@@ -1,5 +1,5 @@
 # Mountain Climber's health and gps tracking device
-Real-time health monitoring and GPS tracking of Mountain climber including fall detection feature.  IOT, Arduino IDE, C++,Sensor Intigration.
+Real-time health monitoring and GPS tracking of Mountain climber including fall detection feature.
 
 ![image](https://github.com/gambre09/Mountain-Climber-health-and-gps-tracking/assets/115577142/e695d1c2-59eb-43c1-9522-e4bd0aa3657d)
 
@@ -10,6 +10,8 @@ location over IOT. This provides the live Heartbeat monitoring, GPS Location Tra
 Altimeter, Fall detection and Barometer sensor to sense the condition of a mountaineer,
 monitoring them and transmitting this over the IOT for live monitoring in a form of SMS to
 mountaineers configured/saved contact number's device.
+
+Technologies Used :- IOT, Arduino IDE, C++,Sensor Intigration.
 
 # Paper Published in STM Journal of Communication Engineering & Systems(2023)
 
