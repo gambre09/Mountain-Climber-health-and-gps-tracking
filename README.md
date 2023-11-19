@@ -17,3 +17,8 @@ location over IOT. This provides the live Heartbeat monitoring, GPS Location Tra
 Altimeter, Fall detection and Barometer sensor to sense the condition of a mountaineer,
 monitoring them and transmitting this over the IOT for live monitoring in a form of SMS to
 mountaineers configured/saved contact number's device.
+
+STM Journal of Communication Engineering & Systems(2023)
+
+The project featured in the STM Journals Journal of Communication Engineering & Systems presents a health and GPS tracking device designed for mountain climbers. ISSN 2249-8613 highlights the utilization of the device to monitor climbers well-being and track their
+locations using GPS technology along with the fall detection feature.
