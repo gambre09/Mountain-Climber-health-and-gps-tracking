@@ -3,7 +3,7 @@ Real-time health monitoring and GPS tracking of Mountain climber including fall 
 
 ![image](https://github.com/gambre09/Mountain-Climber-health-and-gps-tracking/assets/115577142/e695d1c2-59eb-43c1-9522-e4bd0aa3657d)
 
-# Discription
+# Description
 
   This project allows to track vitals of climbers in real time as well as monitor their
 location over IOT. This provides the live Heartbeat monitoring, GPS Location Tracking,
